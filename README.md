@@ -1,16 +1,29 @@
-# my_app
+# 🪪 Business Card App
 
-A new Flutter project.
+A simple Flutter app that displays a digital business card with a name, title, phone number, and email.  
+It demonstrates clean UI design using Flutter widgets, responsive layouts, and Material Design principles.
 
-## Getting Started
+## 🚀 Features
+- Displays user information (name, job title, contact)
+- Clean and simple Material Design
+- Fully responsive UI
+- Beginner-friendly Flutter project
 
-This project is a starting point for a Flutter application.
+## 🧰 Technologies Used
+- Flutter (Dart)
+- Material Design
 
-A few resources to get you started if this is your first Flutter project:
+## 📱 Screenshots
+(Add screenshots here later)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🧑‍💻 Author
+**Hassan Tarek**  
+[GitHub Profile](https://github.com/Hassan-Tarek-dev)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📄 License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+### 📦 How to Run the App
+1. Clone the repository  
+   ```bash
+   git clone https://github.com/Hassan-Tarek-dev/business_card_app.git
