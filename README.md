@@ -13,9 +13,6 @@ It demonstrates clean UI design using Flutter widgets, responsive layouts, and M
 - Flutter (Dart)
 - Material Design
 
-## 📱 Screenshots
-(Add screenshots here later)
-
 ## 🧑‍💻 Author
 **Hassan Tarek**  
 [GitHub Profile](https://github.com/Hassan-Tarek-dev)
